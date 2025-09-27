@@ -1,4 +1,4 @@
-# CUDA UNet Implementation 
+# CUDA UNet 
 
 ## Overview
 
